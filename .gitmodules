@@ -1,0 +1,6 @@
+[submodule "RoboND-Python-StarterKit"]
+	path = RoboND-Python-StarterKit
+	url = https://github.com/udacity/RoboND-Python-StarterKit.git
+[submodule "RoboND-Rover-Project"]
+	path = RoboND-Rover-Project
+	url = https://github.com/aponamarev/RoboND-Rover-Project.git
